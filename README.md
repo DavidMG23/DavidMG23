@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmg23" alt="davidmg23" /></a> </p><h3 align="left">Conéctate conmigo:</h3>
+
 
 
 <p align="left">
