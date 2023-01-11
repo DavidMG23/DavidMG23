@@ -4,7 +4,7 @@
 <p>Me encanta la tecnología y la informática, mi formación siempre ha estado relacionada con este mundo, desde la electrónica hasta la programación, llevo 5 años incorporando habilidades y experiencia en tecnologías de desarrollo web. Enfocado en el Frontend, buenas prácticas y en la medida de lo posible estar al día de las nuevas tecnologías.
 Me gusta el trabajo en equipo, poder aprender de mis compañero y al mismo tiempo ofrecer mis conocimientos.</p>
 <br>🌱 Actualmente estoy aprendiendo ReactJS<br>📫 Puedes enviarme un correa a: davidmorales.gs@gmail.com <br> 
-[Mi web](https://davidmg23.github.io/davidmoralesgarcia/)
+<a href="https://davidmg23.github.io/davidmoralesgarcia/" target="_blank">🖥️ Web</a>
 
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmoralesgarcia) 
