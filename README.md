@@ -1,22 +1,30 @@
-## 💫 Sobre mi:
-<h1 align="center">Hola 👋, Soy David Morales Garcia</h1>
-<h3 align="center">Desarrollador web | Frontend</h3><br>
-<p>Me encanta la tecnología y la informática, mi formación siempre ha estado relacionada con este mundo, desde la electrónica hasta la programación, llevo 5 años incorporando habilidades y experiencia en tecnologías de desarrollo web. Enfocado en el Frontend, buenas prácticas y en la medida de lo posible estar al día de las nuevas tecnologías.
-Me gusta el trabajo en equipo, poder aprender de mis compañero y al mismo tiempo ofrecer mis conocimientos.</p>
-<br>🌱 Actualmente estoy aprendiendo ReactJS<br>📫 Puedes enviarme un correa a: davidmorales.gs@gmail.com <br> 
-<a href="https://davidmg23.github.io/davidmoralesgarcia/" target="_blank">🖥️ Web</a>
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Soy David Morales García
+============================================================================================================================================
 
-## 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmoralesgarcia) 
+Soy Desarrollador
+-------------
 
-## 💻 Tecnologías:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-## 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=DavidMG23&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DavidMG23&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMG23&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Me encanta la tecnología y la informática, mi formación siempre ha estado relacionada con este mundo, desde la electrónica hasta la programación, llevo 5 años incorporando habilidades y experiencia en tecnologías de desarrollo web. Enfocado en el Frontend, buenas prácticas y en la medida de lo posible estar al día de las nuevas tecnologías. Me gusta el trabajo en equipo, poder aprender de mis compañero y al mismo tiempo ofrecer mis conocimientos.
 
----
-[![](https://visitcount.itsvg.in/api?id=DavidMG23&icon=1&color=0)](https://visitcount.itsvg.in)
+* 🌍  Vivo en Málaga, España
+* 🖥️  Mira mi portafolio aquí [link](http://davidmg23.github.io/davidmoralesgarcia/)
+* ✉️  Puedes enviarme un correa a [davidmorales.gs@gmail.com](mailto:davidmorales.gs@gmail.com)
+* 🧠  Actualmente estoy aprendiendo Python
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Habilidades
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+### Redes
+
+<p align="left"> <a href="https://www.github.com/DavidMG23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/davidmoralesgarcia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Insignias
+
+<b>Mis estadísticas</b>
+
+<a href="http://www.github.com/DavidMG23"><img src="https://github-readme-stats.vercel.app/api?username=DavidMG23&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="DavidMG23's GitHub stats" /></a>
+
+<a href="https://github.com/DavidMG23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMG23&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
