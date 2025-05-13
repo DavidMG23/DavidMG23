@@ -8,7 +8,7 @@ Me encanta la tecnología y la informática, mi formación siempre ha estado rel
 
 * 🌍  Vivo en Málaga, España
 * 🖥️  Mira mi portafolio aquí [link](http://davidmg23.github.io/davidmoralesgarcia/)
-* ✉️  Puedes enviarme un correa a [davidmorales.gs@gmail.com](mailto:davidmorales.gs@gmail.com)
+* ✉️  Puedes enviarme un correo a [davidmorales.gs@gmail.com](mailto:davidmorales.gs@gmail.com)
 * 🧠  Actualmente estoy aprendiendo Python
 
 ### Habilidades
